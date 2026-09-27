@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "vulnerabilityAssessments_Default_storageContainerPath_1": {
+            "value": null
+        },
+        "servers_ecommerce_sql_primary_name": {
+            "value": null
+        },
+        "servers_ecommerce_sql_secondary_name": {
+            "value": null
+        },
+        "virtualNetworks_ecommerce_vnet_name": {
+            "value": null
+        },
+        "virtualNetworks_ecommerce_vnet_secondary_name": {
+            "value": null
+        },
+        "privateEndpoints_ecommerce_sql_private_endpoint_name": {
+            "value": null
+        },
+        "privateEndpoints_ecommerce_sql_secondary_private_endpoint_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_database_windows_net_externalid": {
+            "value": null
+        }
+    }
+}
